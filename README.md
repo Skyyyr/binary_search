@@ -1,5 +1,6 @@
 # Binary Search
 
+
 Binary Search is an extraordinarily common interview algorithm and application question. The goal is to find the index of a value that you pass in compared to a sorted array of strings or integers. You can read more [here](https://en.wikipedia.org/wiki/Binary_search_algorithm).
 
 Let's take a look at some code:
